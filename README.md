@@ -40,4 +40,10 @@ Components used:
 Tailwind css
 https://daisyui.com/components/
 insall daisyui
-Add Navbar to the App.jsx
+Add Navbar to the App.jsx seperate componet file
+install react router dom
+create BrowserRouter>Routes>Route
+create an outlet in your Body Component
+create a footer
+
+
